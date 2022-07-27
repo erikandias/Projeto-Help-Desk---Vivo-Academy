@@ -17,3 +17,5 @@ Entregaveis do Projeto
 -   Exibir mensgem de confirmacao antes de excluir o chamado do JSON
 - Projeto Consolidado.
 teste
+
+Colaboradoras: Aline Ura, Mariana Vilela, Vera Neves e Miriam Toledo.
